@@ -9808,7 +9808,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #140644 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10150,4 +10150,8 @@ section.resume-section .resume-section-content {
 #interest, #award{
   color: #bd5d38;
   height: 1rem;
+}
+
+#courseheading1{
+  color: #343a40;
 }
