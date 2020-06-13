@@ -3917,6 +3917,7 @@ input[type=button].btn-block {
 }
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
+
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -4989,7 +4990,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #bd5d38;
+  background-color: #08383a;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -9808,7 +9809,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #140644 !important;
+  color: #0b3e52fd !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10098,7 +10099,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #0b3e52fd;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -10108,7 +10109,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #38b9bd;
 }
 
 .dev-icons {
@@ -10145,10 +10146,11 @@ section.resume-section .resume-section-content {
 .progress{
   height: 15px;
   width: 50%;
+  border: thin solid #08383a;
 }
 
 #interest, #award{
-  color: #bd5d38;
+  color: #08383a;
   height: 1rem;
 }
 
